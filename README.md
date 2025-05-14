@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ashish-soni08-cohere-mcp-server-badge.png)](https://mseep.ai/app/ashish-soni08-cohere-mcp-server)
+
 # Cohere MCP Server
 
 ![Cohere MCP Server](https://badge.mcpx.dev?type=server 'MCP Server')
